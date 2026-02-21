@@ -1,2 +1,1 @@
-# Data-Exploration-Visualisation
-Data Exploration &amp; Visualisation
+# Pricing & upsell insights
